@@ -1,0 +1,19 @@
+{
+  "usernames": ["user1", "user2"],
+  "pairs": [
+    ["user1", "user2"],
+    ["user3", "user4"]
+  ],
+  "timing": {
+    "default_interval": 1,
+    "active_interval": 4,
+    "inactive_interval": 1,
+    "error_delay": 60
+  },
+  "notification_bot": {
+    "api_id": 123456789, 
+    "api_hash": "Your API hash",
+    "bot_token": "Bot Token",
+    "chat_id": 12345678901 
+  }
+}
