@@ -33,7 +33,7 @@
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/ваш-username/telegram-status-tracker.git
+git clone https://github.com/Lado20101/telegram-status-tracker.git
 cd telegram-status-tracker
 
 # 2. Установить зависимости
